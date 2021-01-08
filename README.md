@@ -1,4 +1,4 @@
-# beautify-pwa
+# template-pwa
 
 ## Project setup
 ```
